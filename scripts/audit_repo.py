@@ -30,9 +30,10 @@ def api_get(url):
         with urllib.request.urlopen(req, timeout=10) as resp:
             return json.loads(resp.read().decode())
     except urllib.error.HTTPError as e:
-        return {'error': f'HTTP {e.code}', 'raw': e.read().decode()[:200]}
+        body = e.read().decode()[:200]
+        return {'error': f'HTTP {e.code}', 'raw': body, 'url': url}
     except Exception as e:
-        return {'error': str(e)}
+        return {'error': str(e), 'url': url}
 
 
 def audit(repo_full):
