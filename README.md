@@ -7,6 +7,9 @@
   </p>
 </div>
 
+<div align="left">
+  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
+
 ---
 
 ## What It Does
