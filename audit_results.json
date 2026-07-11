@@ -1,6 +1,6 @@
 [
   {
-    "repo": "josezuma/awesome-ai-visibility",
+    "repo": "josezuma/geo-prompt-optimizer",
     "score": 85,
     "max_score": 100,
     "checks": {
@@ -12,99 +12,187 @@
       "llms_txt": 0
     },
     "findings": [
-      "\u2705 Description: 146 chars \u2014 good (+15 pts)",
-      "\u2705 10 topics set: aeo, ai-crawlers, ai-search, ai-visibility, awesome-list (+15 pts)",
-      "\u2705 License: MIT (+10 pts)",
-      "\u2705 AGENTS.md found (614 bytes) (+20 pts)",
-      "\u2705 README found (13372 bytes) (+25 pts)",
+      "\u2705 Description: 115 chars \u2014 good (+15 pts)",
+      "\u2705 9 topics set: ai-visibility, brand, citation, cli, geo (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (526 bytes) (+20 pts)",
+      "\u2705 README found (5413 bytes) (+25 pts)",
       "\u274c No llms.txt (+0 pts)"
     ],
     "rating": "Good"
   },
   {
-    "repo": "josezuma/ai-crawlers",
-    "score": 70,
+    "repo": "josezuma/llm-citation-scanner",
+    "score": 85,
     "max_score": 100,
     "checks": {
       "description": 15,
-      "topics": 0,
+      "topics": 15,
       "license": 10,
       "agents_md": 20,
       "readme": 25,
       "llms_txt": 0
     },
     "findings": [
-      "\u2705 Description: 178 chars \u2014 good (+15 pts)",
-      "\u274c No topics set (+0 pts)",
-      "\u2705 License: NOASSERTION (+10 pts)",
-      "\u2705 AGENTS.md found (543 bytes) (+20 pts)",
-      "\u2705 README found (7664 bytes) (+25 pts)",
+      "\u2705 Description: 105 chars \u2014 good (+15 pts)",
+      "\u2705 8 topics set: ai-search, brands, citations, cli, geo (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (397 bytes) (+20 pts)",
+      "\u2705 README found (3444 bytes) (+25 pts)",
       "\u274c No llms.txt (+0 pts)"
     ],
     "rating": "Good"
   },
   {
-    "repo": "josezuma/geo-audit-skill",
-    "score": 70,
+    "repo": "josezuma/geo-benchmarks",
+    "score": 85,
     "max_score": 100,
     "checks": {
       "description": 15,
-      "topics": 0,
+      "topics": 15,
       "license": 10,
       "agents_md": 20,
       "readme": 25,
       "llms_txt": 0
     },
     "findings": [
-      "\u2705 Description: 151 chars \u2014 good (+15 pts)",
-      "\u274c No topics set (+0 pts)",
-      "\u2705 License: MIT (+10 pts)",
-      "\u2705 AGENTS.md found (420 bytes) (+20 pts)",
-      "\u2705 README found (4103 bytes) (+25 pts)",
+      "\u2705 Description: 129 chars \u2014 good (+15 pts)",
+      "\u2705 8 topics set: ai-visibility, benchmark, brands, citations, dataset (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (188 bytes) (+20 pts)",
+      "\u2705 README found (3117 bytes) (+25 pts)",
       "\u274c No llms.txt (+0 pts)"
     ],
     "rating": "Good"
   },
   {
-    "repo": "josezuma/schema-for-ai",
-    "score": 70,
+    "repo": "josezuma/eeat-analyzer",
+    "score": 85,
     "max_score": 100,
     "checks": {
       "description": 15,
-      "topics": 0,
+      "topics": 15,
       "license": 10,
       "agents_md": 20,
       "readme": 25,
       "llms_txt": 0
     },
     "findings": [
-      "\u2705 Description: 146 chars \u2014 good (+15 pts)",
-      "\u274c No topics set (+0 pts)",
-      "\u2705 License: MIT (+10 pts)",
-      "\u2705 AGENTS.md found (404 bytes) (+20 pts)",
-      "\u2705 README found (2574 bytes) (+25 pts)",
+      "\u2705 Description: 112 chars \u2014 good (+15 pts)",
+      "\u2705 7 topics set: ai-search, analyzer, authority, content-quality, eeat (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (157 bytes) (+20 pts)",
+      "\u2705 README found (1176 bytes) (+25 pts)",
       "\u274c No llms.txt (+0 pts)"
     ],
     "rating": "Good"
   },
   {
-    "repo": "josezuma/repo-visibility-skill",
-    "score": 70,
+    "repo": "josezuma/geo-content-template",
+    "score": 85,
     "max_score": 100,
     "checks": {
       "description": 15,
-      "topics": 0,
+      "topics": 15,
       "license": 10,
       "agents_md": 20,
       "readme": 25,
       "llms_txt": 0
     },
     "findings": [
-      "\u2705 Description: 177 chars \u2014 good (+15 pts)",
-      "\u274c No topics set (+0 pts)",
-      "\u2705 License: MIT (+10 pts)",
-      "\u2705 AGENTS.md found (441 bytes) (+20 pts)",
-      "\u2705 README found (2257 bytes) (+25 pts)",
+      "\u2705 Description: 112 chars \u2014 good (+15 pts)",
+      "\u2705 8 topics set: ai-search, content, geo, markdown, marketing (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (397 bytes) (+20 pts)",
+      "\u2705 README found (3377 bytes) (+25 pts)",
+      "\u274c No llms.txt (+0 pts)"
+    ],
+    "rating": "Good"
+  },
+  {
+    "repo": "josezuma/structured-data-tester",
+    "score": 85,
+    "max_score": 100,
+    "checks": {
+      "description": 15,
+      "topics": 15,
+      "license": 10,
+      "agents_md": 20,
+      "readme": 25,
+      "llms_txt": 0
+    },
+    "findings": [
+      "\u2705 Description: 105 chars \u2014 good (+15 pts)",
+      "\u2705 7 topics set: ai-search, geo, json-ld, schema-org, seo (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (399 bytes) (+20 pts)",
+      "\u2705 README found (2514 bytes) (+25 pts)",
+      "\u274c No llms.txt (+0 pts)"
+    ],
+    "rating": "Good"
+  },
+  {
+    "repo": "josezuma/competitor-geo-watch",
+    "score": 85,
+    "max_score": 100,
+    "checks": {
+      "description": 15,
+      "topics": 15,
+      "license": 10,
+      "agents_md": 20,
+      "readme": 25,
+      "llms_txt": 0
+    },
+    "findings": [
+      "\u2705 Description: 94 chars \u2014 good (+15 pts)",
+      "\u2705 7 topics set: ai-visibility, claude-skill, competitor, geo, monitoring (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (397 bytes) (+20 pts)",
+      "\u2705 README found (2587 bytes) (+25 pts)",
+      "\u274c No llms.txt (+0 pts)"
+    ],
+    "rating": "Good"
+  },
+  {
+    "repo": "josezuma/geo-local-skill",
+    "score": 85,
+    "max_score": 100,
+    "checks": {
+      "description": 15,
+      "topics": 15,
+      "license": 10,
+      "agents_md": 20,
+      "readme": 25,
+      "llms_txt": 0
+    },
+    "findings": [
+      "\u2705 Description: 100 chars \u2014 good (+15 pts)",
+      "\u2705 7 topics set: ai-search, claude-skill, geo, google-business, local (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (392 bytes) (+20 pts)",
+      "\u2705 README found (2770 bytes) (+25 pts)",
+      "\u274c No llms.txt (+0 pts)"
+    ],
+    "rating": "Good"
+  },
+  {
+    "repo": "josezuma/ai-search-share-of-voice",
+    "score": 85,
+    "max_score": 100,
+    "checks": {
+      "description": 15,
+      "topics": 15,
+      "license": 10,
+      "agents_md": 20,
+      "readme": 25,
+      "llms_txt": 0
+    },
+    "findings": [
+      "\u2705 Description: 120 chars \u2014 good (+15 pts)",
+      "\u2705 8 topics set: ai-search, brands, cli, geo, llm (+15 pts)",
+      "License: NOASSERTION",
+      "\u2705 AGENTS.md found (401 bytes) (+20 pts)",
+      "\u2705 README found (2440 bytes) (+25 pts)",
       "\u274c No llms.txt (+0 pts)"
     ],
     "rating": "Good"

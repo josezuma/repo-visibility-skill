@@ -76,13 +76,13 @@ def audit(repo_full):
 
     # Check license
     lic = repo_data.get('license')
-    if lic:
+    if lic and isinstance(lic, dict):
         spdx = lic.get('spdx_id', '')
         results['license'] = WEIGHTS['license']
-        findings.append(f'✅ License: {spdx} (+{WEIGHTS["license"]} pts)')
+        findings.append(f'License: {spdx}')
     else:
         results['license'] = 0
-        findings.append(f'❌ No license file (+0 pts)')
+        findings.append('No license file')
 
     # 2. Check AGENTS.md
     contents = api_get(f'https://api.github.com/repos/{owner}/{repo}/contents/AGENTS.md')
